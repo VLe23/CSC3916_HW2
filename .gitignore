@@ -1,6 +1,5 @@
-*.pdf
-/node_modules
-npm-debug.log
-.DS_Store
-/*.env
-*.pptx
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
